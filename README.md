@@ -193,8 +193,4 @@ MPI.
 
 <p>
 
-The technical paper describing PECON is available 
-
-<a href="http://home.wlu.edu/~levys/publications/#pdcs2006">here</a>.
-
-Please e-mail <a href="mailto:simon.d.levy@gmail.com">simon.d.levy@gmail.com</a> with any question or complaints.  Enjoy!
+The technical paper describing PECON is available <a href="http://home.wlu.edu/~levys/publications/#pdcs2006">here</a>.
